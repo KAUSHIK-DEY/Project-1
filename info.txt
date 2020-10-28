@@ -1,0 +1,5 @@
+About the project
+
+###########################################################
+
+This project datasets has been borrowed from kaggle and being a novice in this area as of now i have build the model and also i have reached an accuracy of 91.4 % without overfitting much .
